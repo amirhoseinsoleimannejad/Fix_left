@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">تعمیرات</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_logo">آسانسورچی</string>
+    <string name="request_service">در خواست سرویس کار آسانسور</string>
+    <string name="request_price">استعلام قیمت آسانسور</string>
+    <string name="service_keep">قرارداد سرویس و نگهداری</string>
+
+    <string name="input_name">نام و نام خانوادگی</string>
+    <string name="input_address">آدرس</string>
+    <string name="input_description">در خواست شما</string>
+    <string name="input_mobile">شماره همراه</string>
+
+    <string name="request">ارسال درخواست</string>
+    <string name="payment">پرداخت</string>
+    <string name="detail">جزئیات</string>
+    <string name="products">محصولات</string>
+    <string name="fix_person">آقای سهیل نوری در تهران پارس خیابان استخر به درخواست شما بله گفته اند حداقل 10 دقیقه دیگر خواهند رسید</string>
+    <string name="wait">منتظر برای گرفتن درخواست باشید با تشکر</string>
+    <string name="ok_request">پذیرش</string>
+    <string name="cancel_request">انصراف</string>
+
+    <string name="name">امیرحسین سلیمان نژاد</string>
+    <string name="address">خیابان ارسباران</string>
+    <string name="phone">09126100994</string>
+
+
+</resources>
